@@ -1,11 +1,11 @@
-Why do you want to work for_______?
+Why do I want to work for_______?
     -Northrop Gruman
     -Lockheed Martin
     -YouVersion
     -IBM
     -Oracle
     -
-Reasons why you are passionate about technology.
+Reasons why I am passionate about technology.
     -Fiction Books and Movies talking about technologically 
     advanced societies 
     -Love creation: Minecraft, construction, drawing, painting,
@@ -16,12 +16,16 @@ Reasons why you are passionate about technology.
     -Aerospace Defense and Technology advancement
     -Love for math and challenging algorithms.
     -Appreciation for AI, its capabilities and limits.
-    -Respect for making ethical decisions in technological development
+    -Respect and desire for making ethical decisions in technological development
     -Caveman method: They made tools to help them survive. That 
     is the root to why technology is so important and impressive.
     We are constantly in an arms race with other countries. We are 
     constantly in competition with other oposing forces for resources.
     Technology and its advancement and adequate and efficient use is what
     enables us to succeed, survive, and elevate our lives. 
-    -Product Ideas
+    -Product Ideas for a consumer based economy
 
+What do I like about a product or team I am interviewing for. What would I improve?
+Specific Recommendations?
+
+What was the hardest bug I have ever faced?
