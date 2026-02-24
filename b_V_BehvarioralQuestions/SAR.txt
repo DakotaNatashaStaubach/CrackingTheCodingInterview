@@ -1,0 +1,7 @@
+Nugget First
+-start response that succintly describes what my response will be about. 
+
+SAR
+Situation: 
+Action: 
+Result: 

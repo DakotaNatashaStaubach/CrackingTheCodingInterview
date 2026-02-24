@@ -1,0 +1,21 @@
+Genuine Questions
+-What is the ratio of testers to developers to program managers?
+-What is the interaction like?
+-What kind of communication methods (technology and processes) are used for project coordination 
+    and conflict resolution? 
+-How does project planning happen on the team?
+-What brought you to this company?
+-What has been the most challenging for you?
+-Is there any insight you would like to share about the culture of the company and or team I will be working with?
+
+Insightful Questions
+- I noticed you use technology x. How do you handle problem y?
+- Why did the product choose to use X protocol over Y protocol?
+- I know it has benifits like A, B, C, but many companies choose not to use it because of issue D. 
+
+Passion Questions
+- I'm very interested in scalability, and I'd love to learn more about it. What opportunites are there
+at this company to learn about this?
+- I'm not familiar with technology x, but it sounds like a very interesting solution. Could you tell me
+a bit more about how it works?
+

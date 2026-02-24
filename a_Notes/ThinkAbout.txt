@@ -1,0 +1,10 @@
+Things to think about:
+-big 0
+-trees
+-Dijkstra's algorithm
+-AVL trees
+-math/probability
+-memory allocation
+-System design/ Scalability
+-Proprietary Systems
+- 

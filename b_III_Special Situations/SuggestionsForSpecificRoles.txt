@@ -1,0 +1,32 @@
+Testers & SDETs
+-Core Testing Problems:
+-Coding Questions:
+-Testing the Coding Questions:
+
+Product Management
+-Handling Ambiguity
+-Customer Focus Attitude
+-Customer Focus Tech skills
+-Multi-Level Comms
+-Passion for Tech
+-Teamwork/Leadership
+
+Dev Lead & Managers
+-Teamwork/Leadership: Be able to lead and work with people.
+    Explicit: How I handled previous situations like disagreements?
+    Implicit: How I interact with the interviewer (passive or arrogant)
+-Prioritization: tough deadlines, and cutting the fluff. Asking about critical concerns and 
+    communicate what we can reasonably accomplish
+-Communication: quality engagement with people of all levels. 
+-Getting Things Done: balance between prepare and implement. How to structure a project
+    and motivate people so you can accomoplish goals. 
+
+Interviewers
+- Evaluating PROBLEM SOLVING SKILLS not memorization skills
+- Be able to solve medium and hard Problems
+- Sanity Check: easy problem-solving or design questions to assess minimum degree of compentence in problem-solving.
+    used to filter out worst candidates or when needing minimum degree of compentency.
+- Qulaity Check: Challenging questions in problem solving or design. 
+    used when algorithm and problem solving are of high importance.
+- Specailist Questions: test knowledge of specific topics. 
+- Proxy Knowledge: 
