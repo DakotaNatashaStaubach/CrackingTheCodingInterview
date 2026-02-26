@@ -1,3 +1,7 @@
+****************************************Behavioral Question Prep*************************************
+
+
+
 =====================================================================================================
 Why do I want to work for_______?
 =====================================================================================================
@@ -7,7 +11,17 @@ Why do I want to work for_______?
     - IBM
     - Oracle
     - Mid Continent Group
+    - Honeywell
+    - Disney
+    - Universal
+    - Space Force
+    - Air Force
     - 
+
+=====================================================================================================
+What do I like about a product or team I am interviewing for. What would I improve?
+Specific Recommendations?
+=====================================================================================================
 
 
 
@@ -32,13 +46,6 @@ Reasons why I am passionate about technology.
     Technology and its advancement and adequate and efficient use is what
     enables us to succeed, survive, and elevate our lives. 
     -Product Ideas for a consumer based economy
-
-
-
-=====================================================================================================
-What do I like about a product or team I am interviewing for. What would I improve?
-Specific Recommendations?
-=====================================================================================================
 
 
 
@@ -81,7 +88,7 @@ technically complex systems problems.
 
 -----------------------------------------------------------------------------------------------------
 
-Susinct Version:
+Succinct Version:
 One of the hardest bugs I faced was in my computer graphics class when I had to implement an incremental convex hull 
 algorithm that dynamically updated as nodes were added or moved. It worked up to 3 nodes, but once I had four or more, 
 the hull would break due to incorrect orientation checks.
@@ -110,3 +117,114 @@ How do I tackle challenges?
 I tackle challenges by breaking them into smaller pieces and identifying the root cause before taking action. I test 
 assumptions methodically and stay calm under pressure. If there’s a knowledge gap, I proactively research, collaborate,
 or seek clarification. I see challenges as opportunities to learn and improve, not setbacks.
+
+What are my weaknesses?
+- At times I'm an 'over doer'. In the past, I've spent too much time optimizing or making solutions more 
+elegant than neccesary. I've been working on prioritizing maintainability and delivering working versions 
+first before refining. 
+
+- I used to struggle with asking for help. Earlier in my academic career, I tried to solve everything 
+independently. I've learned that collaborative problem-solving is more efficient and leads to better 
+outcomes. 
+
+- Occasionally I struggle with imposter syndrome. As a new graduate entering a field with very experienced 
+engineers, I sometimes doubt myself. I counter that by preparing thoroughly and continuously learning. 
+
+- I tend to set very high standards for myself, which sometimes leads me to spend extra time refining work
+beyond what is required. I've been learning to balance excellence with efficiency and priortize based on 
+project impact.
+
+
+=====================================================================================================
+What are my strengths?
+=====================================================================================================
+- Organization
+- Seeing the big picture while also paying attention to low level details. 
+- Communication: Asking Questions, Conflict Resolution
+- Learning and Research: Understanding AI's limitations and capabilities 
+- Cultivating Relationships
+
+
+- I'm adaptable and learn quickly. Proof of this was with transitioning from studying healthcare to 
+computer science which required me to build an entirely new technical skillset. When I switched to computer
+science at OU my degree plan was for 3 years but I finished it in 2. 
+
+- My military and serving experience has strengthened my accountability and composure under pressure. I 
+take ownership of tasks and follow through and maintain high standards for myself and the quality of work
+I provide. 
+
+- Because of my experience in hospitality and leadership roles, I'm comfortable cultivating relationships 
+with a diverse array of stakeholders and explaining technical concepts to non-technical stakeholders. 
+My favorite methods are through analogies and creating vizualizations. A picture says a 1000 words. 
+
+- I am a strong analytical thinker. I’m comfortable working with data, identifying patterns, and translating quantitative 
+findings into actionable insights. 
+   DBMS, Algo, ML, Parallel Distributed Networking
+
+- I naturally think in systems — I look at how processes, data, and stakeholders interact rather than viewing 
+issues in isolation.
+    Built relational schemas, Worked with system-level logic, Debugged multi-component systems
+
+-----------------------------------------------------------------------------------------------------
+
+Succinct Version:
+- I would say my biggest strengths are analytical thinking, systems-level problem solving, and communication. My computer 
+science and mathematics background allows me to work confidently with data and technical systems, while my leadership and 
+hospitality experience has strengthened my ability to communicate clearly with diverse stakeholders. I’m especially strong 
+at translating complex findings into actionable insights that align with business goals through analogies or visualizations. 
+
+
+
+=====================================================================================================
+Tell me about a time you had to persuade a group of people to make a big change.
+=====================================================================================================
+Situation:
+
+Action:
+
+Result:
+
+
+
+
+=====================================================================================================
+Tell me about a challenging interaction with a teammate.
+=====================================================================================================
+Situation:
+
+Action:
+
+Result:
+
+
+
+=====================================================================================================
+Can you give an example of a time you had a conflict with a co-worker?
+=====================================================================================================
+Situation:
+
+Action:
+
+Result:
+
+
+
+=====================================================================================================
+Tell me about a time when you handled a difficult problem.
+=====================================================================================================
+Situation:
+
+Action:
+
+Result:
+
+
+
+=====================================================================================================
+Tell me about a time when you had to explain a technical concept to a non-technical stakeholder.
+=====================================================================================================
+Situation: 
+
+Action:
+
+Result:

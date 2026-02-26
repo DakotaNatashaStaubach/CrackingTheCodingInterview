@@ -1,5 +1,7 @@
 Behavioral: Assess ability to be successful in that work environment. 
 Would I fit well within the culture and values? What am I excited about?
 How do I tackle challenges? 
+
 Coding and Algorithms: 
+
 Design/Architecture:

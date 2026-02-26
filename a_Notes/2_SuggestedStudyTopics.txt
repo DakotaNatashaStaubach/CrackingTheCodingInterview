@@ -1,4 +1,0 @@
-1. Scalability
-2. Object Oriented Design
-3. Analytical (algorithm) skills
-4. System Design

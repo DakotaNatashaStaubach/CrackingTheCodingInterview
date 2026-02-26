@@ -1,0 +1,21 @@
+**********************************Topics Covered in the Interview**********************************
+
+-Big 0
+-Sorting algorithms
+-Trees
+-Dijkstra's algorithm
+-AVL trees
+-Math/probability
+-Memory allocation
+-System design/ Scalability
+-Proprietary Systems
+-Scalability
+-Object Oriented Design
+-Analytical (algorithm) skills
+-System Design
+-Excel Proficiency
+    core formulas
+    pivot tables
+    sorting and filtering
+    Data Cleaning
+-Data Entry Skills
