@@ -5,3 +5,9 @@ SAR
 Situation: 
 Action: 
 Result: 
+
+STAR
+Situation:
+Task:
+Action:
+Result:

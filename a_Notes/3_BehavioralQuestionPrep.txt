@@ -1,0 +1,112 @@
+=====================================================================================================
+Why do I want to work for_______?
+=====================================================================================================
+    - Northrop Gruman
+    - Lockheed Martin
+    - YouVersion
+    - IBM
+    - Oracle
+    - Mid Continent Group
+    - 
+
+
+
+=====================================================================================================
+Reasons why I am passionate about technology.
+=====================================================================================================
+    -Fiction Books and Movies talking about technologically 
+    advanced societies 
+    -Love creation: Minecraft, construction, drawing, painting,
+    interface design, document design, data visualizations and 
+    organization, clothing, interior design. 
+    -Space Exploration and Defense
+    -Military Defense
+    -Aerospace Defense and Technology advancement
+    -Love for math and challenging algorithms.
+    -Appreciation for AI, its capabilities and limits.
+    -Respect and desire for making ethical decisions in technological development
+    -Caveman method: They made tools to help them survive. That 
+    is the root to why technology is so important and impressive.
+    We are constantly in an arms race with other countries. We are 
+    constantly in competition with other oposing forces for resources.
+    Technology and its advancement and adequate and efficient use is what
+    enables us to succeed, survive, and elevate our lives. 
+    -Product Ideas for a consumer based economy
+
+
+
+=====================================================================================================
+What do I like about a product or team I am interviewing for. What would I improve?
+Specific Recommendations?
+=====================================================================================================
+
+
+
+=====================================================================================================
+What was the hardest bug I have ever faced?
+=====================================================================================================
+I faced a mathematically complex systems problem, stretched beyond my background, and turned it into 
+a learning breakthrough.
+
+Situation:
+In my computer graphics course, we were assigned to implement an incremental 
+convex hull algorithm for dynamically updating node positions in a social network visualization. 
+The hull had to update correctly when nodes were added, removed, or moved, using geometric 
+left/right orientation tests and deque-based traversal. The difficulty increased significantly 
+once the hull contained more than three nodes.
+
+Task: 
+My responsibility was to implement the 3+ node case of the incremental convex hull algorithm 
+correctly — specifically identifying which edges the new point was left or right of, removing invalid 
+vertices, and inserting the new point in counterclockwise order while maintaining correctness under 
+dynamic updates.
+
+Action: 
+The major challenge was that I had not yet taken linear algebra, so I struggled with the 
+geometric orientation tests and understanding how vector cross products determined “left” versus 
+“right” of a directed edge. I spent significant time debugging cases where the hull would break 
+once a fourth point was added.
+Although collaboration was not allowed until after submission, I worked through the algorithm 
+independently and documented edge cases carefully. After the assignment was submitted, I sought 
+out a graduate student peer to review the algorithm and explain the underlying geometric reasoning. 
+That conversation helped me understand how I could have implemented the orientation checks more cleanly 
+and simplified the hull traversal logic.
+
+Results: 
+While I did not fully complete the 3+ node logic before the deadline, I received a strong grade 
+due to the complexity of the assignment and the correctness of the portions I implemented. More importantly, 
+I gained a deeper understanding of geometric algorithms and the value of proactively strengthening foundational 
+knowledge. Since then, I’ve become more intentional about reviewing mathematical prerequisites early when tackling 
+technically complex systems problems.
+
+-----------------------------------------------------------------------------------------------------
+
+Susinct Version:
+One of the hardest bugs I faced was in my computer graphics class when I had to implement an incremental convex hull 
+algorithm that dynamically updated as nodes were added or moved. It worked up to 3 nodes, but once I had four or more, 
+the hull would break due to incorrect orientation checks.
+
+The challenge was that I hadn’t taken linear algebra yet, and the algorithm relied heavily on understanding vector 
+cross products to determine whether a point was to the left or right of an edge. I spent a lot of time debugging 
+edge cases and tracing the geometric logic step by step.
+
+Although collaboration wasn’t allowed until after submission, I later worked with a graduate student who walked 
+me through the math behind the orientation tests. That helped everything click. I earned a strong grade despite not 
+fully completing the final case, and more importantly, I learned to identify foundational gaps early and strengthen 
+them when tackling complex systems problems.”
+
+
+
+=====================================================================================================
+What am I excited about?
+=====================================================================================================
+
+
+
+=====================================================================================================
+How do I tackle challenges? 
+=====================================================================================================
+
+I tackle challenges by breaking them into smaller pieces and identifying the root cause before taking action. I test 
+assumptions methodically and stay calm under pressure. If there’s a knowledge gap, I proactively research, collaborate,
+or seek clarification. I see challenges as opportunities to learn and improve, not setbacks.
